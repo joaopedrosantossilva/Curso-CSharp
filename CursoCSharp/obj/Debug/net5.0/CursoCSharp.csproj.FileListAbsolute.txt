@@ -1,0 +1,5 @@
+C:\Users\jpss\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\jpss\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpss\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\jpss\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\jpss\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
